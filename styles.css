@@ -15,9 +15,9 @@ body{
     background-size: cover;
     background-position: center;
 }
-.container{
+/* .container{
     padding: 10px 10%;
-}
+} */
 nav{
     display: flex;
     align-items: center;
@@ -128,7 +128,7 @@ nav ul li a:hover::after{
     display: block;
 }
 /* 
-/* knowledge 
+
 #experience {
     position: relative;
 }
@@ -164,7 +164,7 @@ article {
   
 article .icon {
     cursor: default;
-} */
+} 
 
 
 /* GENERAL */
